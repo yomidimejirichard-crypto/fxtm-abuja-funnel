@@ -45,9 +45,9 @@ export async function submitRegistration(data: Registration): Promise<void> {
   const body = JSON.stringify({
     timestamp: new Date().toISOString(),
     ...data,
-    source: 'fxtm-portharcourt-traders-hangout',
-    event: 'Traders Hangout with FXTM, Port Harcourt',
-    eventDate: '2026-11-21',
+    source: 'fxtm-abuja-traders-hangout',
+    event: 'Traders Hangout with FXTM, Abuja',
+    eventDate: '2026-11-28',
     ...captureAttribution(),
     pageUrl: window.location.href,
     userAgent: navigator.userAgent,

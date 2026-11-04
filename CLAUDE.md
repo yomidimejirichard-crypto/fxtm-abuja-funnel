@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Single page registration funnel for **Traders Hangout with FXTM, Port Harcourt** (Saturday, 21 November 2026, 10:00 AM, The Autograph, Port Harcourt).
+Single page registration funnel for **Traders Hangout with FXTM, Abuja** (Saturday, 28 November 2026, 10:00 AM, NAF Conference Centre, Ahmadu Bello Way, Abuja).
 
 ## Stack
 

@@ -3,12 +3,12 @@
 Every word on the page. Use exactly as written. `src/content.ts` mirrors this file; change both together.
 
 [HERO]
-Eyebrow: FXTM TRADERS HANGOUT | PORT HARCOURT
+Eyebrow: FXTM TRADERS HANGOUT | ABUJA
 H1: Traders Hangout with FXTM
-Subheadline: A full day of live trading, practical market education and real networking with traders across Port Harcourt. Whether you are just starting or you trade every day, there is a seat for you.
-Chip 1: Saturday, 21 November 2026
+Subheadline: A full day of live trading, practical market education and real networking with traders across Abuja. Whether you are just starting or you trade every day, there is a seat for you.
+Chip 1: Saturday, 28 November 2026
 Chip 2: 10:00 AM
-Chip 3: The Autograph, Port Harcourt
+Chip 3: NAF Conference Centre, Abuja
 
 [FORM CARD]
 Heading: Reserve your seat
@@ -34,16 +34,16 @@ Experience options (exact labels, also sent as experienceLevel):
 - Expert (5+ years)
 
 [DETAIL STRIP]
-Date | Saturday, 21 November 2026
+Date | Saturday, 28 November 2026
 Time | 10:00 AM
-Venue | The Autograph, Port Harcourt
+Venue | NAF Conference Centre, Ahmadu Bello Way, Abuja
 Who it's for | Beginners and professionals
 
 [WHAT TO EXPECT]
 Eyebrow: WHAT TO EXPECT
 Heading: What you will get on the day
 Card 1 title: Community and networking
-Card 1 text: Meet traders across Port Harcourt, compare notes and build connections that last beyond the event.
+Card 1 text: Meet traders across Abuja, compare notes and build connections that last beyond the event.
 Card 2 title: Live trading and exposition
 Card 2 text: Watch the market traded in real time and see how each decision is made, step by step.
 Card 3 title: Global stocks at your fingertips
@@ -79,19 +79,19 @@ Heading: Prizes and giveaways
 Text: There are exciting prizes and giveaways to be won on the day. You have to be in the room to win.
 
 [FINAL PUSH]
-Heading: Saturday, 21 November. Port Harcourt. 10:00 AM.
+Heading: Saturday, 28 November. Abuja. 10:00 AM.
 Text: Register now and your event details will be sent straight to you.
 Button: Reserve My Seat
 
 [FOOTER]
-Line 1: Traders Hangout with FXTM, Port Harcourt
+Line 1: Traders Hangout with FXTM, Abuja
 Line 2: Risk warning: Trading leveraged products carries a high level of risk and may not be suitable for all investors. You can lose some or all of your invested capital.
 Link (to /privacy.html): Privacy Policy
 
 [CONFIRMATION]
 Eyebrow: REGISTRATION CONFIRMED
 Heading: You are registered, {firstName}.
-Text: Your seat for the Traders Hangout with FXTM on Saturday, 21 November 2026 is reserved. One last step: open our Telegram support handle to receive your event details, venue directions and reminders.
+Text: Your seat for the Traders Hangout with FXTM on Saturday, 28 November 2026 is reserved. One last step: open our Telegram support handle to receive your event details, venue directions and reminders.
 Button: Open Telegram
 Countdown: Taking you to Telegram in {n}...
 Fallback note: If nothing happens, tap the button above.
@@ -99,14 +99,14 @@ Summary labels: Date | Time | Venue (same values as the detail strip)
 document.title: You are registered | Traders Hangout with FXTM
 
 [META]
-title: Traders Hangout with FXTM | Port Harcourt, 21 November 2026
-description: Join FXTM at The Autograph, Port Harcourt on Saturday, 21 November 2026 for live trading, market education, networking, prizes and giveaways. Beginners and professionals welcome.
+title: Traders Hangout with FXTM | Abuja, 28 November 2026
+description: Join FXTM at NAF Conference Centre, Abuja on Saturday, 28 November 2026 for live trading, market education, networking, prizes and giveaways. Beginners and professionals welcome.
 
 [PRIVACY PAGE] (public/privacy.html, static, noindex)
 title: Privacy Policy | Traders Hangout with FXTM
 H1: Privacy Policy
-Subheading: Traders Hangout with FXTM, Port Harcourt
-Updated line: Last updated: 2 November 2026
+Subheading: Traders Hangout with FXTM, Abuja
+Updated line: Last updated: 4 November 2026
 
 What we collect
 When you register for the Traders Hangout with FXTM, we collect your full name, email address, phone number and trading experience level. We also record the time of registration and an approximate city based on your network connection.

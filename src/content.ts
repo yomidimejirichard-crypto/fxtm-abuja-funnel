@@ -8,16 +8,16 @@ export const EXPERIENCE_OPTIONS = [
 
 export const content = {
   meta: {
-    title: 'Traders Hangout with FXTM | Port Harcourt, 21 November 2026',
+    title: 'Traders Hangout with FXTM | Abuja, 28 November 2026',
     registeredTitle: 'You are registered | Traders Hangout with FXTM',
   },
 
   hero: {
-    eyebrow: 'FXTM TRADERS HANGOUT | PORT HARCOURT',
+    eyebrow: 'FXTM TRADERS HANGOUT | ABUJA',
     h1: 'Traders Hangout with FXTM',
     subheadline:
-      'A full day of live trading, practical market education and real networking with traders across Port Harcourt. Whether you are just starting or you trade every day, there is a seat for you.',
-    chips: ['Saturday, 21 November 2026', '10:00 AM', 'The Autograph, Port Harcourt'],
+      'A full day of live trading, practical market education and real networking with traders across Abuja. Whether you are just starting or you trade every day, there is a seat for you.',
+    chips: ['Saturday, 28 November 2026', '10:00 AM', 'NAF Conference Centre, Abuja'],
   },
 
   form: {
@@ -43,9 +43,9 @@ export const content = {
   },
 
   details: [
-    { label: 'Date', value: 'Saturday, 21 November 2026' },
+    { label: 'Date', value: 'Saturday, 28 November 2026' },
     { label: 'Time', value: '10:00 AM' },
-    { label: 'Venue', value: 'The Autograph, Port Harcourt' },
+    { label: 'Venue', value: 'NAF Conference Centre, Ahmadu Bello Way, Abuja' },
     { label: "Who it's for", value: 'Beginners and professionals' },
   ],
 
@@ -55,7 +55,7 @@ export const content = {
     cards: [
       {
         title: 'Community and networking',
-        text: 'Meet traders across Port Harcourt, compare notes and build connections that last beyond the event.',
+        text: 'Meet traders across Abuja, compare notes and build connections that last beyond the event.',
       },
       {
         title: 'Live trading and exposition',
@@ -109,13 +109,13 @@ export const content = {
   },
 
   finalPush: {
-    heading: 'Saturday, 21 November. Port Harcourt. 10:00 AM.',
+    heading: 'Saturday, 28 November. Abuja. 10:00 AM.',
     text: 'Register now and your event details will be sent straight to you.',
     button: 'Reserve My Seat',
   },
 
   footer: {
-    line1: 'Traders Hangout with FXTM, Port Harcourt',
+    line1: 'Traders Hangout with FXTM, Abuja',
     line2:
       'Risk warning: Trading leveraged products carries a high level of risk and may not be suitable for all investors. You can lose some or all of your invested capital.',
     privacyLink: 'Privacy Policy',
@@ -124,7 +124,7 @@ export const content = {
   confirmation: {
     eyebrow: 'REGISTRATION CONFIRMED',
     heading: (firstName: string) => `You are registered, ${firstName}.`,
-    text: 'Your seat for the Traders Hangout with FXTM on Saturday, 21 November 2026 is reserved. One last step: open our Telegram support handle to receive your event details, venue directions and reminders.',
+    text: 'Your seat for the Traders Hangout with FXTM on Saturday, 28 November 2026 is reserved. One last step: open our Telegram support handle to receive your event details, venue directions and reminders.',
     button: 'Open Telegram',
     countdown: (n: number) => `Taking you to Telegram in ${n}...`,
     fallback: 'If nothing happens, tap the button above.',
